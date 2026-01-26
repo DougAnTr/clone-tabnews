@@ -1,5 +1,5 @@
 module.exports = {
   eslint: {
-    dirs: ['pages', 'infra', 'tests']
-  }
-}
+    dirs: ["pages", "infra", "tests"],
+  },
+};
